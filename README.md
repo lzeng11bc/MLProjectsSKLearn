@@ -1,2 +1,3 @@
 # MLProjectsSKLearn
-Machine Learning Projects using SK-Learn
+**This repository is a slew of Machine Learning Projects using Sckit Learn library**
+
